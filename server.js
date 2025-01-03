@@ -36,7 +36,7 @@ const vpsList = [
     },
     {
         host: "rloo1197-serios-1r0fmbdnip1.ssh.ws-us117.gitpod.io",
-        token: "rloo1197-serios-1r0fmbdnip1#t85qYvJ6eaBn348pgoikx1b8AxyXU5Rm",
+        token: "rloo1197-serios-1r0fmbdnip1#UjTXfUfNze1aQHJn4wMHMHbfs3cr6nxp",
     },
 ];
 
